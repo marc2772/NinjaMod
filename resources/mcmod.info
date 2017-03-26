@@ -1,0 +1,11 @@
+[
+{
+  "modid": "ninjamod",
+  "name": "Ninja Mod",
+  "description": "A stupid description of the mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["TurtleGames"],
+  "credits": "Me, myself and I"
+}
+]

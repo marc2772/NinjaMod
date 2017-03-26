@@ -1,0 +1,10 @@
+#Blocks
+tile.ninjamod:steel_block.name=Steel Block
+
+#Items
+item.ninjamod:steel_nugget.name=Steel Nugget
+item.ninjamod:steel_ingot.name=Steel Ingot
+item.ninjamod:katana.name=Katana
+
+#Creative Tab
+itemGroup.ninjamod:creative_tab=Ninja Mod's Tab

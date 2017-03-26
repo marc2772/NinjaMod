@@ -1,0 +1,6 @@
+{
+	"parent": "ninjamod:block/steel_block",
+	"textures": {
+		"layer0": "ninjamod:blocks/steel_block"
+	}
+}
