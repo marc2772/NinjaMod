@@ -20,6 +20,8 @@ public class BlockSteel extends Block
 	{
 		super(Material.IRON);
 		setCreativeTab(NinjaMod.tabNinja);
+		setHardness(5);
+		setHarvestLevel("pickaxe", 2);
 	}
 
 	@Override
